@@ -1,4 +1,4 @@
-# Capy Hour
+# Capy Hour :fallen_leaf:
 A mock eCommerce website which sells capybara merchandise.
 
 This project was hosted using a WAMP server which utilized SQL, PHP, HTML and CSS (Materialize CSS library). 
